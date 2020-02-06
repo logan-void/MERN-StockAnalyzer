@@ -13,3 +13,6 @@ Find more information about this project here >> https://towardsdatascience.com/
 - Node.js
 - MySQL
 - Nginx
+
+## Infrastructure
+- Ubuntu 16.04
